@@ -1,0 +1,6 @@
+[book]
+author = "Thomas Schaller"
+language = "ja"
+multilingual = true
+src = "src/ja"
+title = "The Specs Book"
